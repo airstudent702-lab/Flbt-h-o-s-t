@@ -1,0 +1,7 @@
+# .gitignore
+__pycache__/
+*.pyc
+.env
+upload_bots/
+inf/
+execution_logs/
